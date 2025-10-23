@@ -34,7 +34,7 @@ With a background in Petroleum Engineering, I combine technical problem-solving 
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [📊 Sales Performance Dashboard](#) | Interactive Power BI dashboard analyzing sales across regions and KPIs | Power BI, Excel |
-| [🛢️ Oil Production Analysis](#) | Data cleaning and visualization of production efficiency trends | Python, SQL, Power BI |
+| [🛢️ Oil Production Analysis](#) | Data cleaning and visualization of production efficiency trends | Python, Power BI |
 | [📈 Customer Retention Insights](#) | Analyzing churn data to identify key retention factors | Python, Excel |
 
 ---
